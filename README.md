@@ -40,6 +40,20 @@ System.out.println ("Favorite Movie: Baby Driver");
 
 
 * 1.4
+/**
+ * Sebastian Vilchis
+ * AP CS
+ * 1.4
+ **/
+ public class NameUpperCamelCase
+ {
+     public static void main(String[] args)
+     {
+         System.out.println ("\"Do what makes your soul happy\"");
+         System.out.println ("Google");
+     }//End method main
+ }//End Class NameUpperCamelCase
+
 
 
 
